@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faizinme
-- 👀 I’m interested in Bootstrap & Wordpress.
+- 👀 I’m working in Bootstrap & Wordpress.
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on Github
 - 📫 Contact me at nur(at)faizin dot me
