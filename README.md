@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @faizinme
-- 👀 I’m working in Bootstrap & Wordpress.
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on Github
-- 📫 Contact me at nur(at)faizin dot me
+- Hi, I’m @faizinme
+- I’m working in Laravel, CI, and Wordpress for my personal dan clients projects.
+- I’m currently learning Reactjs and Nextjs
+- I’m looking to collaborate on Github
+- Contact me at nur(at)faizin dot me
 
 <!---
 faizinme/faizinme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
