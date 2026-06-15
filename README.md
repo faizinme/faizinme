@@ -1,4 +1,4 @@
-- Hi, I’m @faizinme
+- Hi, I’m @faizinme work at kreatifpiksel.com and Dewaweb
 - I’m working in Drupal, CI, and CMS for my personal dan clients projects.
 - I’m currently learning JavaScript and TypeScript
 - I’m looking to collaborate on Github
