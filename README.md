@@ -1,6 +1,6 @@
-- Hi, I’m @faizinme work at kreatifpiksel.com and Dewaweb
+- Hi, I’m faizin work at kreatifpiksel.com and Dewaweb
 - I’m working in Drupal, CI, and CMS for my personal dan clients projects.
-- I’m currently learning JavaScript and TypeScript
+- I’m currently learning Python and React Native
 - I’m looking to collaborate on Github
 - Contact me at nur(at)faizin dot me
 
